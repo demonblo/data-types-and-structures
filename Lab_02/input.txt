@@ -1,0 +1,40 @@
+Audi Germany 2300000 Red 0 3
+Lamborghini Italy 23000000 Yellow 1 2012 30000 2 1
+Mercedes Germany 3100000 Black 0 4
+Bentley Great_Britain 6000000 Grey 0 5
+Lada Russia 70000 Green 1 2011 70000 5 3
+Audi Germany 1600000 Blue 1 2015 30000 0 1
+Nissan Japan 1100000 Grey 1 2012 100000 7 10
+BMW Germany 2450000 Black 1 2019 22034 1 1
+Kia Japan 765000 White 1 2019 1900 0 1
+Hyundai Japan 1035000 White 1 2019 7800 0 1
+BMW Germany 630000 Black 0 2
+Ferrari Italy 30000000 Red 0 6
+Ford USA 330000 Grey 1 2008 118000 3 5
+Volkswagen Germany 700000 Sea 1 2001 200000 7 10
+Audi Germany 1300000 White 1 2015 101000 2 1
+Chevrolet USA 670000 Grey 1 2012 124000 3 2
+BMW Germany 2600000 White 0 4
+Mercedes Germany 2700000 White 1 2014 69000 3 5
+Moskvich USSR 87000 Beige 1 1987 53000 0 1
+Mazda Japan 830000 Purple 1 2013 190000 7 2
+Jaguar Great_Britain 7649000 Red 0 4
+Audi Germany 1500000 Red 1 2008 31000 3 4
+Audi Germany 989000 White 1 2011 49000 2 6
+BMW Germany 6626000 White 0 4
+Peugeot France 300000 Beige 1 2009 96000 2 2
+Nissan Japan 65000 Grey 1 1998 150000 6 10
+Kia Japan 1278900 Blue 0 4
+Lamborghini Germany 40000000 Orange 0 6
+Volkswagen Germany 435000 Grey 1 2011 105000 3 2
+Opel Germany 460000 Black 1 2014 99000 4 10
+Porshe Italy 8914000 Red 0 5
+Volvo Sweden 785000 Black 1 2013 120000 7 4
+Skoda Finland 1000000 White 1 2018 30000 0 1
+Volkswagen Germany 440000 Blue 1 2012 175000 0 1
+Toyota Japan 422000 White 1 2009 125000 3 2
+Renault Germany 420000 Beige 1 2014 54000 0 1
+Suzuki Japan 1085990 Grey 0 4
+Subaru Japan 700000 Blue 1 2013 69000 0 1
+Land_Rover Great_Britain 650000 Black 1 2008 185000 7 2
+Mitsubishi Japan 430000 Black 1 2008 195000 5 2
